@@ -22,6 +22,18 @@ The technique demonstrated **high fidelity and robustness**, achieving the follo
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/9a5bb0c0-0682-4aa8-9d9a-403ac869fc41" />
 
+## 🖼️ Sample Input & Output  
+Below are some sample results showcasing the watermark embedding and extraction process:
+
+### 🔹 Use Case 1: Hiding Signatures in X-rays  
+
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/e0633939-e823-44c1-b874-ee33751f5c31" />
+
+
+### 🔹 Use Case 2: Hiding Logos in Documents  
+
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/3d153481-a358-4e48-97fa-73e520bb7f10" />
+
 
 
 
