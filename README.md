@@ -3,7 +3,8 @@
 This repository contains the results of a **deep steganography-based image watermarking technique** using **autoencoders** and **CNNs**. The proposed method outperforms state-of-the-art techniques in terms of **imperceptibility, robustness, and security**, as measured by **PSNR, SSIM, and NC**.
 
 ## 🔬 Research Overview  
-- Developed a **novel deep learning-based approach** for embedding and extracting watermarks from images.  
+- Developed a **novel deep learning-based approach** for embedding and extracting watermarks from images.
+- Integrated the classica image transformation with modern deep autoencoder with CNN for better performance.
 - Designed and trained a **deep autoencoder network** to efficiently encode and retrieve hidden information.  
 - **Validated** the technique across two key use cases:
   - **Hiding signatures in X-ray images** 🏥  
