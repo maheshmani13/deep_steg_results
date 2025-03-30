@@ -1,6 +1,6 @@
 # Robust Image Watermarking with Deep Autoencoders  
 
-This repository contains the implementation of a **deep steganography-based image watermarking technique** using **autoencoders** and **CNNs**. The proposed method outperforms state-of-the-art techniques in terms of **imperceptibility, robustness, and security**, as measured by **PSNR, SSIM, and NC**.
+This repository contains the results of a **deep steganography-based image watermarking technique** using **autoencoders** and **CNNs**. The proposed method outperforms state-of-the-art techniques in terms of **imperceptibility, robustness, and security**, as measured by **PSNR, SSIM, and NC**.
 
 ## 🔬 Research Overview  
 - Developed a **novel deep learning-based approach** for embedding and extracting watermarks from images.  
